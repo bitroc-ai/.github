@@ -1,4 +1,4 @@
-# 🧠 Bitroc AI
+# Bitroc AI
 
 Bitroc AI builds foundational infrastructure for **AI-driven pathology**, enabling secure, efficient, and compliant computation across hospitals, pharma, and research.
 
