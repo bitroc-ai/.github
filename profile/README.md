@@ -63,5 +63,5 @@ Open issues, submit PRs, or reach out via Discussions.
 
 For partnerships or collaboration:
 - GitHub Discussions
-- Email: [team@bitroc.ai](mailto:team@bitroc.ai)
+- Email: [hi@bitroc.ai](mailto:hi@bitroc.ai)
 
