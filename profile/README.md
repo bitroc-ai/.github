@@ -10,11 +10,11 @@ Our flagship platform, **BitFlow**, orchestrates the entire AI pathology lifecyc
 
 ### 🧩 Core Modules
 
-| Module      | Description |
-|-------------|-------------|
-| **BitPath** | Tools for pathology slide annotation, format conversion, WSI viewing, and AI-assisted labeling. |
+| Module      | Description                                                                                                              |
+|-------------|--------------------------------------------------------------------------------------------------------------------------|
+| **BitPath** | Tools for pathology slide annotation, format conversion, WSI viewing, and AI-assisted labeling.                          |
 | **BitEdge** | Edge-side compute nodes deployed within hospitals/labs. Enables federated learning without data leaving the institution. |
-| **BitFlow** | Central orchestration for workflow scheduling, model deployment, artifact storage, and audit logging. |
+| **BitFlow** | Central orchestration for workflow scheduling, model deployment, artifact storage, and audit logging.                    |
 
 ---
 
@@ -38,10 +38,10 @@ Our flagship platform, **BitFlow**, orchestrates the entire AI pathology lifecyc
 
 ## 📦 Featured Repositories
 
-| Repo        | Description |
-|-------------|-------------|
-| [`annota`](https://github.com/bitroc-ai/annota) | High-performance React-based annotation framework for WSI and cell segmentation. |
-| [`kfbviewer`](https://github.com/bitroc-ai/kfbviewer) | Lightweight viewer for `.kfb` pathology slides using OpenSeadragon. |
+| Repo                                                  | Description                                                                      |
+|-------------------------------------------------------|----------------------------------------------------------------------------------|
+| [`annota`](https://github.com/bitroc-ai/annota)       | High-performance React-based annotation framework for WSI and cell segmentation. |
+| [`kfbviewer`](https://github.com/bitroc-ai/kfbviewer) | Lightweight viewer for `.kfb` pathology slides using OpenSeadragon.              |
 
 More coming soon…
 
@@ -64,4 +64,3 @@ Open issues, submit PRs, or reach out via Discussions.
 For partnerships or collaboration:
 - GitHub Discussions
 - Email: [hi@bitroc.ai](mailto:hi@bitroc.ai)
-
